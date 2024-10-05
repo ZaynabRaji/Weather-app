@@ -1,1 +1,32 @@
+body{
+    background: linear-gradient(#8318C5,#6E249B); 
+    /* A corriger */
+    display: block;
+    margin: auto;
+    text-align: center;    
+}
+
+img{
+    height: 201px;
+    width: 201px;
+    
+    }
+
+h1{
+    color: white;
+    font-size: 5em;
+}
+input{
+    text-align: center;
+    width: 600px;
+    height: 40px;
+    border-radius: 12px;
+}
+button{
+    width: 40px;
+    height: 40px;
+    border: none;
+    background: none;
+    /* color white */
+}
 
